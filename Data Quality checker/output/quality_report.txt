@@ -1,0 +1,13 @@
+MISSING VALUES:
+id            0
+name          0
+age           1
+department    1
+salary        0
+dtype: int64
+
+DUPLICATE ROWS: 1
+
+SCHEMA ISSUES:
+Invalid datatype in column: age
+
